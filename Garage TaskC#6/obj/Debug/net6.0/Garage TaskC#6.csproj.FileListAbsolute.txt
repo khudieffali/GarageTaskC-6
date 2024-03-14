@@ -1,0 +1,15 @@
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.AssemblyInfoInputs.cache
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.AssemblyInfo.cs
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.sourcelink.json
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\bin\Debug\net6.0\Garage TaskC#6.exe
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\bin\Debug\net6.0\Garage TaskC#6.deps.json
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\bin\Debug\net6.0\Garage TaskC#6.runtimeconfig.json
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\bin\Debug\net6.0\Garage TaskC#6.dll
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\bin\Debug\net6.0\Garage TaskC#6.pdb
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.dll
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\refint\Garage TaskC#6.dll
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.pdb
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\Garage TaskC#6.genruntimeconfig.cache
+D:\Praktikant\GarageTask\Garage Task\Garage TaskC#6\Garage TaskC#6\obj\Debug\net6.0\ref\Garage TaskC#6.dll
