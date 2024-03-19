@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|solutionrelative:garage taskc#6\\garage task#11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|d:\\praktikant\\garagetask\\garage task\\garage taskc#6\\garage taskc#6\\garagetaskc#10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|solutionrelative:garage taskc#6\\garagetaskc#10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|d:\\praktikant\\garagetask\\garage task\\garage taskc#6\\garage taskc#6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|solutionrelative:garage taskc#6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|d:\\praktikant\\garagetask\\garage task\\garage taskc#6\\garage taskc#6\\garage taskc#6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|solutionrelative:garage taskc#6\\garage taskc#6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|d:\\praktikant\\garagetask\\garage task\\garage taskc#6\\garage taskc#6\\garagetaskc#10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A613158-A16B-4E55-8935-1A00A999201D}|Garage TaskC#6\\Garage TaskC#6.csproj|solutionrelative:garage taskc#6\\garagetaskc#10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,27 +36,26 @@
               "RelativeDocumentMoniker": "Garage TaskC#6\\Garage Task#11.cs",
               "ToolTip": "D:\\Praktikant\\GarageTask\\Garage Task\\Garage TaskC#6\\Garage TaskC#6\\Garage Task#11.cs",
               "RelativeToolTip": "Garage TaskC#6\\Garage Task#11.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwGUAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T08:57:31.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GarageTaskC#10.cs",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Garage Task\\Garage TaskC#6\\Garage TaskC#6\\GarageTaskC#10.cs",
               "RelativeDocumentMoniker": "Garage TaskC#6\\GarageTaskC#10.cs",
               "ToolTip": "D:\\Praktikant\\GarageTask\\Garage Task\\Garage TaskC#6\\Garage TaskC#6\\GarageTaskC#10.cs",
               "RelativeToolTip": "Garage TaskC#6\\GarageTaskC#10.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T07:45:21.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:45:21.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Garage TaskC#6.csproj",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Garage Task\\Garage TaskC#6\\Garage TaskC#6\\Garage TaskC#6.csproj",
               "RelativeDocumentMoniker": "Garage TaskC#6\\Garage TaskC#6.csproj",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "Garage TaskC#6\\Garage TaskC#6.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T07:41:38.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T07:41:38.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Garage Task\\Garage TaskC#6\\Garage TaskC#6\\Program.cs",
               "RelativeDocumentMoniker": "Garage TaskC#6\\Program.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Garage TaskC#6\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T10:19:00.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-09T10:19:00.721Z"
             }
           ]
         }

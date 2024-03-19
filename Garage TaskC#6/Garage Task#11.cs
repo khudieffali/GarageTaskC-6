@@ -12,7 +12,7 @@ namespace Garage_TaskC_6
         static void Main(string[] args)
         {
             #region Task 1
-            //string word = "salam";
+            //string word = "Salam";
             //Console.WriteLine(Reverse(word));
             #endregion
             #region Task 2
@@ -35,12 +35,13 @@ namespace Garage_TaskC_6
         #region Task 1      
         //static string Reverse(string word)
         //{
-        //    string rev="";
-        //    for (int i=word.Length-1; i >=0; i--)
+        //    string rev = "";
+        //    for (int i = word.Length - 1; i >= 0; i--)
         //    {
-        //       rev += word[i];
+        //        rev += word[i];
         //    }
-        //    rev = rev[0].ToString().ToUpper() + rev.Substring(1);
+        //    rev = rev[0].ToString().ToUpper() + rev.Substring(1).ToLower();
+            
         //    return rev;
 
         //}
