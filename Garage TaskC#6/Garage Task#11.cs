@@ -9,8 +9,8 @@ namespace Garage_TaskC_6
 {
     internal class Garage_Task_11
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
             #region Task 1
             //string word = "Salam";
             //Console.WriteLine(Reverse(word));
@@ -31,7 +31,7 @@ namespace Garage_TaskC_6
             //string txt = "zaz";
             //Console.WriteLine(GetPolindrom(txt));
             #endregion
-        }
+        //}
         #region Task 1      
         //static string Reverse(string word)
         //{

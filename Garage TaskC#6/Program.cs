@@ -1,4 +1,46 @@
-﻿//Task 1.Array-dəki fərqli elementləri çap et
+﻿using Garage_TaskC_6;
+using System.Security.Cryptography;
+static void Main(string[] args)
+
+{
+    //Human human1 = new("Hikmet", "Aliyev", 20, "Baku");
+    //Human human2 = new("Ali", "Aliyev", 28, "Celilabad");
+    //Human human3 = new("Server", "Aliyev", 23, "Baku");
+    //Human human4 = new("Aziz", "Aliyev", 32, "Celilabad");
+    //Human human5 = new("Aziz", "Aliyev", 32, "Xizi");
+    //Human human6 = new("Aziz", "Aliyev", 32, "Gence");
+
+    //Human human = new();
+    //Human[] arr = new Human[] { human1, human2, human3, human4, human5, human6 };
+
+    //Console.WriteLine(human1.Name + " " + human1.isStudent(human1.Age));
+    //Console.WriteLine(human2.Name + " " + human2.isStudent(human2.Age));
+    //Console.WriteLine(human3.Name + " " + human3.isStudent(human3.Age));
+    //Console.WriteLine(human4.Name + " " + human4.isStudent(human4.Age));
+    //version 1
+    //human1.CheckCity(human1.City, human3.City);
+    //human1.CheckCity(human2.City, human4.City);
+
+    //version 2 with array
+    //human1.CheckCity(arr);
+
+    //GetCount Method
+    //human1.GetCount(arr);
+
+    //GetCounter Method
+    //human.GetCounter(arr);
+
+
+
+
+
+
+
+}
+
+
+
+//Task 1.Array-dəki fərqli elementləri çap et
 
 
 //int[] arr = { 4, 5, 8, 10, 12, 4, 8, 11, 24, 12 };
@@ -74,6 +116,10 @@
 //        Console.WriteLine(arr2[i] + "-" + count);
 //    }
 //}
+
+
+
+
 
 
 
